@@ -1,6 +1,6 @@
 # Image Mosaicing Using SURF
 
-### Image Mosaicing, also known as image stitching, is the process of combining two or more images of the same scene into one image and generate panorama of high resolution image. 
+### Image Mosaicing, also known as image stitching, is the process of combining two or more images of the same scene into one image and generate a panorama of high-resolution images. 
 ### This project aims to stitch satellite/drone images using SURF (Speeded Up Robust Features).
 
 ## Results:
